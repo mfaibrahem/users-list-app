@@ -1,0 +1,15 @@
+.not-found-page {
+  min-height: 100%;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  color: #252525;
+  h1 {
+    margin-bottom: 22px;
+  }
+
+  a {
+    color: var(--main-app-color);
+    text-decoration: underline;
+  }
+}
